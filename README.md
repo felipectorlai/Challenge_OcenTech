@@ -1,11 +1,14 @@
 Projeto de faculdade que consiste em um gerenciamento de tarefas.
 
+
 .Utilização do Firebase Authentication para a autenticação do usuário
 
 .Utilização do Realtime Database para o funcionamento das tarefas
 
+
 Linguagem programada - Kotlin
 APIs - Firebase
+
 
 NextGen
 

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">OceanTech</string>
+
+    <!--    Generics-->
+    <string name="text_email_login_fragment">E-mail</string>
+    <string name="text_senha_login_fragment">Senha</string>
+    <string name="text_register_account_register_fragment">Criar conta</string>
+    <string name="text_invisible_email">email@email.com</string>
+    <string name="text_invisible_password">******</string>
+
+
+    <!--    Login Fragment-->
+    <string name="text_btn_login_fragment">Login</string>
+    <string name="text_recover_login_fragment">Recuperar conta</string>
+
+
+    <!--Recover Account Fragment-->
+    <string name="text_recover_account_fragment">Recuperar conta</string>
+    <string name="text_btn_recover_account_fragment">Enviar</string>
+
+
+    <!--    Home Fragment-->
+    <string name="text_home_fragment">Olá, Usuário!</string>
+    <string name="text_text_point_fragment">Seus pontos</string>
+    <string name="text_text_recycle_fragment">Você já reciclou</string>
+    <string name="text_kg_fragment">0,000Kg</string>
+    <string name="text_point_fragment">0.0</string>
+    <string name="text_recycle_point_fragment">Procure o ponto de reciclagem mais próximo:</string>
+    <string name="account_not_registered_register_fragment" />
+    <string name="invalid_email_register_fragment" />
+    <string name="invalid_password_register_fragment" />
+    <string name="email_in_use_register_fragment" />
+    <string name="strong_password_register_fragment" />
+    <string name="error_generic" />
+
+    <!-- Form Task Fragment -->
+    <string name="text_title_form_task_fragment">Nova Tarefa</string>
+    <string name="text_description_form_task_fragment">Descrição</string>
+    <string name="text_status_form_task_fragment">Status</string>
+    <string name="text_btn_saveTask_form_task_fragment">Salvar</string>
+
+    <string name="status_task_todo">Fazer</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Feito</string>
+
+
+</resources>

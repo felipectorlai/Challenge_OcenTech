@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827588712428",
+    "project_id": "oceantech-d53cf",
+    "storage_bucket": "oceantech-d53cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827588712428:android:eb46387b64acd3371952c9",
+        "android_client_info": {
+          "package_name": "com.example.oceantech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1GssdSdvJ7LE1Fe36Z8MLnUY5DMlgbGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
